@@ -1,5 +1,6 @@
+sklearn
 streamlit 
 joblib
 pandas
 numpy 
-sklearn
+
