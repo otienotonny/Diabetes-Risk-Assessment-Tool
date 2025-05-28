@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import json
 
+
 # Load the model and preprocessor
 model = joblib.load('diabetes_risk_model.pkl')
 preprocessor = joblib.load('preprocessor.pkl')
